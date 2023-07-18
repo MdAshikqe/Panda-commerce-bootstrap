@@ -1,0 +1,15 @@
+.bg-colors {
+    background-color: #fceae8;
+}
+
+.bg-color {
+    background-color: rgb(115, 238, 168);
+}
+
+.m-top {
+    margin-top: 50px;
+}
+
+.m-bottom {
+    margin-bottom: 150px;
+}
